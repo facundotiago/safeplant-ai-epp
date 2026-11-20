@@ -1,11 +1,3 @@
-# SafePlant AI - Detector de EPP para Planta Industrial
-
-Trabajo del curso Inteligencia Artificial Aplicada (Seccion 359), carrera de Ingenieria Industrial en la Universidad de Lima.
-
-Este proyecto usa vision por computadora para revisar en tiempo real si los trabajadores en planta llevan puesto su casco y chaleco de seguridad. El sistema detecta infracciones, toma una captura de la falta y va calculando el porcentaje de cumplimiento en base a la zona de trabajo.
-
----
-
 ## 1. Hojas Tecnicas
 
 ### Modelo (YOLOv8n)
